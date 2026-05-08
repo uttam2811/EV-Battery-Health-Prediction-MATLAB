@@ -1,0 +1,23 @@
+========================================
+   EV BATTERY PACK SPECIFICATION
+========================================
+Configuration      : 96S4P
+Total Cells        : 384
+Nominal Voltage    : 355.2 V
+Max Voltage        : 403.2 V
+Min Voltage        : 288.0 V
+Capacity           : 20.0 Ah
+Energy             : 0.888 kWh
+Pack Mass          : 2.16 kg
+Pack Volume        : 0.0417 m3
+----------------------------------------
+Gravimetric Density: 411.1 Wh/kg
+Volumetric Density : 21.3 Wh/L
+========================================
+Cell Chemistry     : NMC (Pouch)
+Cell Model         : Table-Based + RC2
+Aging Model        : OCV + Capacity Fade
+Thermal Port       : Enabled
+Configuration      : Series Circuit
+========================================
+>> 
